@@ -19,8 +19,6 @@ int main() {
         }
     } while (donne < montant);
 
-    double rendu = donne - montant;
-    printf("Monnaie à rendre : Rs%.2f\n", rendu);
 
     return 0;
 }
